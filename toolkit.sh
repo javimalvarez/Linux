@@ -50,7 +50,7 @@ then
 			sudo setoolkit
 			;;
 		fsociety)
-			/home/javier/.local/bin/fsociety
+			~/.local/bin/fsociety
 			;;
 	esac
 else
