@@ -50,7 +50,7 @@ then
 			sudo setoolkit
 			;;
 		fsociety)
-			~/.local/bin/fsociety
+			python ~/.local/bin/fsociety
 			;;
 	esac
 else
